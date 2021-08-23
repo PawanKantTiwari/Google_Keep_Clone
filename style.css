@@ -58,11 +58,13 @@
     cursor: pointer;
     /* margin: auto; */
     /* align-items: center; */
-    padding: 2%;
-    padding-left: 16%;
-    padding-top: 4%;
+    /* padding: 2%; */
+    /* padding-left: 16%; */
+    /* padding-top: 4%; */
     color: black;
     font-weight: 600;
+    text-align: center;
+    padding-top: 3%;
 }
 
 .box:hover {
@@ -262,9 +264,9 @@ display: flex;
 }
 
 .label-text{
-    margin-left: 33%;
     color: gray;
     text-decoration: underline;
+    text-align: center;
 }
 
 .logo{
